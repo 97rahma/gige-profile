@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">gige_profile</string>
+    <string name="text_view">
+      <b>About Gige Hadid\n</b>Hadid\'s modeling career began when she was two years old[17]
+        after being discovered by Paul Marciano, of Guess clothing.She
+        start modeling…
+    </string>
+    <string name="followers">
+        <b>8.4M\n</b>followers
+    </string>
+    <string name="likes">
+        <b>4,582\n</b>Likes
+    </string>
+    <string name="photos">
+        <b>2,454\n</b>Photos
+    </string>
+
+</resources>
